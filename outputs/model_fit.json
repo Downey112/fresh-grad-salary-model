@@ -1,0 +1,19 @@
+{
+  "observations": 1000,
+  "r_squared": 0.13859403870482812,
+  "adj_r_squared": 0.13426101073050623,
+  "f_statistic": 31.985493637742085,
+  "f_p_value": 2.7641963396428143e-30,
+  "hc3_f_statistic": 31.89101817364476,
+  "hc3_f_p_value": 3.375279342974144e-30,
+  "log_likelihood": -707.1914575834825,
+  "aic": 1426.382915166965,
+  "bic": 1455.8294468408578,
+  "residual_std_error": 0.4922650246860024,
+  "df_residual": 994,
+  "smearing_factor": 1.127746353994718,
+  "cgpa_mean": 3.20653,
+  "heteroscedastic": false,
+  "residual_skewness": -0.14300350079278087,
+  "residual_kurtosis": 4.0069883014399466
+}

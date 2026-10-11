@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Excel lock files left behind while the workbook is open
+~$*.xlsx

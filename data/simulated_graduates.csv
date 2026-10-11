@@ -1,0 +1,1001 @@
+graduate_id,field,stem,cgpa,intern_months,klang_valley,salary
+1,"Engineering, manufacturing and construction",1,3.72,6,1,4940
+2,"Business, administration and law",0,3.19,3,0,1280
+3,"Engineering, manufacturing and construction",1,3.47,6,1,14950
+4,Information and communication technologies,1,3.38,3,0,3430
+5,"Engineering, manufacturing and construction",1,3.15,3,0,1550
+6,"Business, administration and law",0,2.86,3,1,2440
+7,"Engineering, manufacturing and construction",1,3.38,9,1,3730
+8,Arts and humanities,0,3.32,6,1,3240
+9,"Business, administration and law",0,2.77,9,1,2940
+10,"Engineering, manufacturing and construction",1,3.45,6,1,2860
+11,"Engineering, manufacturing and construction",1,2.8,6,0,9310
+12,"Business, administration and law",0,2.98,6,0,1770
+13,"Engineering, manufacturing and construction",1,2.69,9,0,2400
+14,"Natural sciences, mathematics and statistics",1,3.67,3,0,1070
+15,"Business, administration and law",0,3.08,6,1,3220
+16,"Engineering, manufacturing and construction",1,3.42,6,0,1830
+17,Education,0,3.99,6,1,3780
+18,"Business, administration and law",0,2.6,3,1,910
+19,"Business, administration and law",0,2.78,6,0,2310
+20,"Business, administration and law",0,3.63,9,0,2110
+21,"Business, administration and law",0,2.96,3,0,2910
+22,"Business, administration and law",0,2.8,6,0,2920
+23,Arts and humanities,0,2.99,6,0,750
+24,"Business, administration and law",0,2.86,9,0,2890
+25,"Business, administration and law",0,3.4,9,1,2160
+26,"Business, administration and law",0,3.33,3,1,2790
+27,"Engineering, manufacturing and construction",1,2.73,6,0,1910
+28,"Social sciences, journalism and information",0,3.64,6,0,2780
+29,"Business, administration and law",0,3.03,6,1,3020
+30,"Engineering, manufacturing and construction",1,2.51,3,1,3390
+31,"Engineering, manufacturing and construction",1,3.27,9,0,2250
+32,"Business, administration and law",0,2.73,3,0,3020
+33,"Engineering, manufacturing and construction",1,2.48,3,1,2670
+34,"Social sciences, journalism and information",0,3.5,9,1,2160
+35,Information and communication technologies,1,3.42,6,0,3110
+36,Education,0,3.17,6,1,1480
+37,"Business, administration and law",0,3.48,6,0,2870
+38,"Natural sciences, mathematics and statistics",1,2.9,6,1,610
+39,Health and welfare,0,3.1,6,0,2240
+40,"Business, administration and law",0,3.34,6,0,2800
+41,Education,0,3.3,6,1,1850
+42,Education,0,3.23,6,0,850
+43,"Business, administration and law",0,3.66,6,1,3320
+44,"Business, administration and law",0,3.2,6,0,2700
+45,"Business, administration and law",0,3.43,6,0,2400
+46,"Engineering, manufacturing and construction",1,3.49,3,1,2070
+47,Information and communication technologies,1,3.86,3,0,4310
+48,"Business, administration and law",0,3.62,6,1,3970
+49,"Business, administration and law",0,3.58,9,0,2590
+50,"Business, administration and law",0,3.05,6,1,3860
+51,Information and communication technologies,1,2.99,6,1,4060
+52,"Business, administration and law",0,3.86,3,1,3360
+53,"Business, administration and law",0,3.31,6,1,1870
+54,"Social sciences, journalism and information",0,3.41,6,0,9640
+55,Services,0,3.41,3,0,950
+56,Arts and humanities,0,3.19,3,1,2010
+57,Health and welfare,0,3.1,3,1,1290
+58,Information and communication technologies,1,3.51,6,0,3520
+59,"Engineering, manufacturing and construction",1,3.8,3,0,3970
+60,"Engineering, manufacturing and construction",1,3.25,6,1,1580
+61,"Business, administration and law",0,3.48,3,0,3430
+62,"Business, administration and law",0,3.02,3,0,2550
+63,"Business, administration and law",0,3.19,3,0,2720
+64,"Social sciences, journalism and information",0,3.51,3,0,2060
+65,"Business, administration and law",0,3.09,3,0,2920
+66,"Business, administration and law",0,2.97,6,0,1420
+67,Information and communication technologies,1,3.07,6,1,3460
+68,"Business, administration and law",0,3.17,6,0,1190
+69,"Business, administration and law",0,2.69,6,0,740
+70,"Natural sciences, mathematics and statistics",1,3.92,6,1,3060
+71,"Engineering, manufacturing and construction",1,3.22,6,0,2140
+72,"Business, administration and law",0,3.28,6,1,730
+73,"Natural sciences, mathematics and statistics",1,3.42,6,0,4750
+74,"Business, administration and law",0,3.24,6,0,2420
+75,"Agriculture, forestry, fisheries and veterinary",0,2.68,6,1,1700
+76,"Business, administration and law",0,3.14,6,1,3220
+77,Arts and humanities,0,3.02,9,0,1130
+78,"Business, administration and law",0,3.9,6,0,860
+79,Arts and humanities,0,3.43,3,1,1280
+80,"Engineering, manufacturing and construction",1,3.86,3,0,3370
+81,"Business, administration and law",0,3.62,6,1,2440
+82,Information and communication technologies,1,2.92,6,1,4660
+83,Services,0,3.05,6,1,3160
+84,Information and communication technologies,1,2.71,9,0,2430
+85,Health and welfare,0,3.06,6,0,3530
+86,"Engineering, manufacturing and construction",1,3.25,6,0,2150
+87,"Engineering, manufacturing and construction",1,3.22,6,0,3060
+88,"Engineering, manufacturing and construction",1,3.32,6,0,3660
+89,"Business, administration and law",0,3.19,3,1,2770
+90,"Natural sciences, mathematics and statistics",1,3.22,6,1,3880
+91,"Business, administration and law",0,3.16,6,0,2740
+92,"Business, administration and law",0,3.35,3,0,2710
+93,"Business, administration and law",0,3.31,9,1,2890
+94,Arts and humanities,0,2.74,6,1,1810
+95,Health and welfare,0,3.99,9,1,3650
+96,"Business, administration and law",0,2.82,6,0,2740
+97,"Natural sciences, mathematics and statistics",1,3.53,6,0,1800
+98,"Engineering, manufacturing and construction",1,2.7,6,0,2070
+99,Arts and humanities,0,2.77,6,1,2320
+100,"Engineering, manufacturing and construction",1,3.14,6,0,2280
+101,"Social sciences, journalism and information",0,3.7,9,1,4580
+102,Arts and humanities,0,3.25,6,0,1350
+103,"Engineering, manufacturing and construction",1,2.36,6,1,1650
+104,"Natural sciences, mathematics and statistics",1,2.79,6,1,4480
+105,Education,0,3.73,6,0,1810
+106,"Engineering, manufacturing and construction",1,3.34,6,0,2570
+107,Arts and humanities,0,3.08,6,0,1600
+108,"Engineering, manufacturing and construction",1,3.24,3,0,3900
+109,Arts and humanities,0,3.04,6,0,1620
+110,Education,0,3.09,6,0,1870
+111,"Natural sciences, mathematics and statistics",1,3.06,6,0,1610
+112,Services,0,3.73,6,0,2830
+113,"Business, administration and law",0,3.39,6,1,2510
+114,"Agriculture, forestry, fisheries and veterinary",0,3.18,6,0,2340
+115,"Engineering, manufacturing and construction",1,3.19,6,0,2170
+116,"Business, administration and law",0,3.18,6,1,3990
+117,"Business, administration and law",0,3.23,6,1,4530
+118,"Business, administration and law",0,3.16,6,1,3510
+119,"Business, administration and law",0,2.94,6,0,2340
+120,"Business, administration and law",0,3.43,6,0,2100
+121,"Engineering, manufacturing and construction",1,3.68,9,0,7840
+122,Information and communication technologies,1,3.9,6,1,4620
+123,Education,0,3.35,3,0,600
+124,Information and communication technologies,1,3.63,6,1,3220
+125,Services,0,3.57,9,0,2470
+126,Health and welfare,0,3.13,6,1,4850
+127,"Engineering, manufacturing and construction",1,2.66,6,0,2710
+128,Services,0,3.26,3,1,2670
+129,"Social sciences, journalism and information",0,3.37,6,1,3730
+130,Health and welfare,0,3.03,6,0,2060
+131,"Business, administration and law",0,3.18,6,1,540
+132,"Social sciences, journalism and information",0,3.33,6,0,2710
+133,"Business, administration and law",0,2.7,9,1,580
+134,"Business, administration and law",0,2.66,6,0,670
+135,"Engineering, manufacturing and construction",1,2.83,6,1,2970
+136,Information and communication technologies,1,3.62,6,0,8140
+137,Information and communication technologies,1,3.94,9,0,3370
+138,Services,0,2.93,6,0,950
+139,Services,0,2.83,9,0,1900
+140,Arts and humanities,0,3.4,3,0,500
+141,"Business, administration and law",0,3.13,6,0,1960
+142,Education,0,2.97,9,1,1720
+143,Health and welfare,0,3.37,6,1,2250
+144,"Social sciences, journalism and information",0,2.87,6,1,3240
+145,"Business, administration and law",0,3.18,3,0,3990
+146,Services,0,3.73,6,0,3410
+147,"Business, administration and law",0,3.06,9,1,4460
+148,"Business, administration and law",0,2.69,9,1,1250
+149,Information and communication technologies,1,3.59,6,1,4420
+150,"Engineering, manufacturing and construction",1,3.2,3,1,2800
+151,"Social sciences, journalism and information",0,2.73,6,0,3800
+152,Information and communication technologies,1,3.2,6,0,2130
+153,"Engineering, manufacturing and construction",1,3.06,9,0,2960
+154,Information and communication technologies,1,3.51,6,0,3320
+155,"Social sciences, journalism and information",0,3.01,3,1,2340
+156,"Social sciences, journalism and information",0,3.36,6,0,720
+157,"Business, administration and law",0,3.72,3,0,3980
+158,"Social sciences, journalism and information",0,2.97,3,0,2120
+159,"Social sciences, journalism and information",0,3.43,6,1,1570
+160,"Business, administration and law",0,2.88,3,0,1930
+161,"Business, administration and law",0,2.95,6,1,8460
+162,"Social sciences, journalism and information",0,3.81,6,1,1960
+163,Information and communication technologies,1,3.81,3,0,3500
+164,"Business, administration and law",0,3.31,6,0,1420
+165,"Engineering, manufacturing and construction",1,3.46,6,0,2410
+166,Information and communication technologies,1,2.42,6,0,2110
+167,Health and welfare,0,3.21,3,1,4180
+168,Arts and humanities,0,3.77,6,1,3790
+169,"Social sciences, journalism and information",0,3.06,6,0,1230
+170,Services,0,3.19,6,1,3500
+171,Arts and humanities,0,3.0,6,0,640
+172,"Social sciences, journalism and information",0,3.5,9,1,3310
+173,"Business, administration and law",0,2.91,3,1,1530
+174,"Engineering, manufacturing and construction",1,3.0,9,0,2910
+175,"Business, administration and law",0,2.79,6,0,2590
+176,Services,0,3.11,3,1,2120
+177,"Business, administration and law",0,3.23,9,1,2660
+178,"Business, administration and law",0,3.17,6,1,2500
+179,Arts and humanities,0,3.26,6,1,1130
+180,"Engineering, manufacturing and construction",1,3.82,6,0,730
+181,"Natural sciences, mathematics and statistics",1,2.99,6,0,950
+182,"Business, administration and law",0,2.62,6,0,700
+183,"Engineering, manufacturing and construction",1,3.22,9,0,2380
+184,"Social sciences, journalism and information",0,3.13,6,0,880
+185,Arts and humanities,0,3.59,6,0,1450
+186,"Engineering, manufacturing and construction",1,3.72,3,1,2180
+187,Information and communication technologies,1,3.09,3,0,2940
+188,"Engineering, manufacturing and construction",1,3.06,6,0,3890
+189,Information and communication technologies,1,3.12,9,0,1270
+190,"Business, administration and law",0,3.61,3,0,3590
+191,Arts and humanities,0,3.52,3,0,1950
+192,Education,0,3.61,3,1,1380
+193,Health and welfare,0,3.53,3,0,2680
+194,"Natural sciences, mathematics and statistics",1,3.46,3,0,2510
+195,"Business, administration and law",0,2.8,9,0,2030
+196,"Business, administration and law",0,3.01,6,1,3380
+197,"Business, administration and law",0,2.97,6,1,2510
+198,"Business, administration and law",0,2.69,6,1,3600
+199,Education,0,3.35,3,0,520
+200,Arts and humanities,0,3.5,6,0,2200
+201,"Engineering, manufacturing and construction",1,3.42,6,1,1670
+202,"Business, administration and law",0,2.71,6,1,970
+203,"Business, administration and law",0,3.74,3,0,3610
+204,"Engineering, manufacturing and construction",1,3.54,3,1,5020
+205,Information and communication technologies,1,2.62,6,0,910
+206,"Business, administration and law",0,2.97,6,0,2530
+207,Information and communication technologies,1,3.69,6,1,3200
+208,"Business, administration and law",0,3.29,3,1,4690
+209,Arts and humanities,0,3.49,9,0,2630
+210,"Business, administration and law",0,3.66,3,0,3620
+211,"Engineering, manufacturing and construction",1,3.12,9,1,3450
+212,Arts and humanities,0,2.88,6,0,620
+213,"Business, administration and law",0,3.29,6,0,6230
+214,Education,0,3.08,3,1,2990
+215,"Engineering, manufacturing and construction",1,3.74,9,1,2380
+216,"Business, administration and law",0,3.19,6,1,3000
+217,Arts and humanities,0,2.99,6,1,1080
+218,"Engineering, manufacturing and construction",1,3.72,6,1,4530
+219,Education,0,3.32,3,1,2800
+220,"Natural sciences, mathematics and statistics",1,2.85,6,0,830
+221,"Natural sciences, mathematics and statistics",1,3.27,3,0,3230
+222,"Business, administration and law",0,2.83,6,1,1800
+223,Education,0,3.48,3,0,2280
+224,Information and communication technologies,1,2.87,6,0,3300
+225,"Business, administration and law",0,2.88,6,1,4410
+226,Arts and humanities,0,3.76,3,0,2690
+227,"Business, administration and law",0,3.14,6,1,1640
+228,"Agriculture, forestry, fisheries and veterinary",0,3.41,6,1,4890
+229,Arts and humanities,0,2.8,3,1,2090
+230,Services,0,3.83,6,0,2550
+231,Health and welfare,0,2.88,6,0,4710
+232,"Natural sciences, mathematics and statistics",1,3.14,6,1,9630
+233,"Business, administration and law",0,3.11,6,0,2910
+234,Arts and humanities,0,3.15,6,0,2900
+235,"Business, administration and law",0,3.4,3,1,2810
+236,Education,0,3.88,6,0,1180
+237,Education,0,2.89,6,0,1990
+238,"Business, administration and law",0,3.84,3,1,2470
+239,"Natural sciences, mathematics and statistics",1,3.35,6,0,2380
+240,"Business, administration and law",0,3.1,6,0,2100
+241,"Business, administration and law",0,2.42,9,0,2090
+242,"Engineering, manufacturing and construction",1,2.78,3,0,1990
+243,"Agriculture, forestry, fisheries and veterinary",0,2.82,3,1,860
+244,Arts and humanities,0,3.56,6,1,4130
+245,"Agriculture, forestry, fisheries and veterinary",0,3.52,3,0,2460
+246,Health and welfare,0,2.74,3,1,3040
+247,Information and communication technologies,1,3.42,9,0,3740
+248,"Engineering, manufacturing and construction",1,2.73,6,0,2840
+249,Education,0,3.25,3,0,2160
+250,"Engineering, manufacturing and construction",1,3.17,6,1,810
+251,Health and welfare,0,3.03,3,0,3780
+252,"Engineering, manufacturing and construction",1,2.94,3,1,3810
+253,"Social sciences, journalism and information",0,3.13,9,0,2460
+254,"Social sciences, journalism and information",0,3.23,6,1,4240
+255,Education,0,3.21,9,1,2390
+256,Arts and humanities,0,3.43,6,0,1960
+257,"Engineering, manufacturing and construction",1,2.64,6,0,2560
+258,Education,0,3.47,6,0,1360
+259,"Engineering, manufacturing and construction",1,2.78,6,0,2530
+260,"Business, administration and law",0,3.47,6,1,1750
+261,"Business, administration and law",0,3.52,3,1,2180
+262,"Business, administration and law",0,3.54,6,0,880
+263,"Business, administration and law",0,3.59,6,1,2170
+264,"Business, administration and law",0,2.77,3,1,3460
+265,Education,0,3.2,6,1,3000
+266,"Business, administration and law",0,3.24,9,1,2740
+267,"Engineering, manufacturing and construction",1,3.14,6,0,2740
+268,"Business, administration and law",0,3.84,9,1,6990
+269,"Engineering, manufacturing and construction",1,3.43,6,0,4740
+270,"Engineering, manufacturing and construction",1,3.61,3,1,3990
+271,"Business, administration and law",0,2.92,6,0,1770
+272,"Engineering, manufacturing and construction",1,2.91,9,0,2260
+273,Services,0,3.56,9,1,2530
+274,Services,0,3.74,6,1,2940
+275,"Business, administration and law",0,3.44,6,1,2930
+276,"Business, administration and law",0,3.55,6,1,2100
+277,Education,0,3.25,3,0,810
+278,"Social sciences, journalism and information",0,2.48,3,0,1560
+279,"Engineering, manufacturing and construction",1,2.82,6,0,1570
+280,"Business, administration and law",0,3.23,9,0,3720
+281,Information and communication technologies,1,3.46,6,0,3150
+282,"Engineering, manufacturing and construction",1,3.86,6,0,1560
+283,Education,0,3.85,6,0,2440
+284,Services,0,3.08,9,0,2180
+285,"Engineering, manufacturing and construction",1,2.7,3,1,2950
+286,"Engineering, manufacturing and construction",1,2.83,3,0,2000
+287,Health and welfare,0,3.15,3,0,2970
+288,"Business, administration and law",0,3.64,6,1,1950
+289,Information and communication technologies,1,2.63,6,1,3170
+290,Information and communication technologies,1,3.41,6,0,2690
+291,"Business, administration and law",0,3.83,6,0,1980
+292,"Engineering, manufacturing and construction",1,2.97,6,0,3760
+293,Health and welfare,0,3.3,6,0,12420
+294,"Engineering, manufacturing and construction",1,3.87,3,0,4770
+295,"Engineering, manufacturing and construction",1,2.73,9,1,3200
+296,"Business, administration and law",0,3.49,6,0,930
+297,"Natural sciences, mathematics and statistics",1,2.84,9,1,1980
+298,"Engineering, manufacturing and construction",1,2.92,9,0,2320
+299,"Business, administration and law",0,3.22,6,0,1790
+300,"Business, administration and law",0,3.38,6,1,3330
+301,"Engineering, manufacturing and construction",1,3.27,6,0,1080
+302,"Social sciences, journalism and information",0,3.46,3,1,2590
+303,"Social sciences, journalism and information",0,3.4,6,1,3980
+304,"Business, administration and law",0,2.88,6,0,1020
+305,"Engineering, manufacturing and construction",1,2.59,6,1,3560
+306,Services,0,3.28,3,0,1980
+307,"Business, administration and law",0,3.24,3,0,2340
+308,"Business, administration and law",0,3.47,6,1,3910
+309,"Business, administration and law",0,3.02,6,0,1420
+310,Arts and humanities,0,3.33,6,0,650
+311,"Natural sciences, mathematics and statistics",1,3.16,6,0,2340
+312,"Business, administration and law",0,3.34,6,0,2580
+313,"Business, administration and law",0,3.29,6,0,1940
+314,"Business, administration and law",0,2.87,6,0,4070
+315,Arts and humanities,0,3.08,9,0,1790
+316,"Engineering, manufacturing and construction",1,3.25,6,1,10680
+317,"Business, administration and law",0,3.29,6,0,1890
+318,"Business, administration and law",0,3.09,6,0,1100
+319,"Business, administration and law",0,3.69,6,1,2890
+320,"Social sciences, journalism and information",0,2.67,6,0,3080
+321,"Business, administration and law",0,3.59,3,0,2190
+322,"Engineering, manufacturing and construction",1,3.04,6,1,2880
+323,"Natural sciences, mathematics and statistics",1,3.35,6,0,2830
+324,"Social sciences, journalism and information",0,3.2,6,0,3850
+325,Education,0,2.59,3,0,840
+326,Information and communication technologies,1,3.62,6,1,8200
+327,Arts and humanities,0,3.83,6,0,2180
+328,"Business, administration and law",0,3.38,6,0,2710
+329,"Engineering, manufacturing and construction",1,3.24,3,1,3530
+330,"Business, administration and law",0,3.19,6,1,3010
+331,"Engineering, manufacturing and construction",1,2.93,3,1,2470
+332,Education,0,3.73,6,1,3230
+333,Services,0,3.18,3,1,4810
+334,"Engineering, manufacturing and construction",1,3.31,3,0,940
+335,"Business, administration and law",0,3.03,6,1,2170
+336,"Natural sciences, mathematics and statistics",1,3.83,3,0,2430
+337,Information and communication technologies,1,3.45,3,0,2780
+338,"Natural sciences, mathematics and statistics",1,3.21,6,1,1520
+339,Education,0,3.04,6,1,2940
+340,"Social sciences, journalism and information",0,3.7,6,0,2780
+341,Arts and humanities,0,2.58,3,0,550
+342,"Business, administration and law",0,3.16,3,1,1860
+343,"Engineering, manufacturing and construction",1,3.4,6,0,2210
+344,"Natural sciences, mathematics and statistics",1,3.12,6,0,3400
+345,"Social sciences, journalism and information",0,3.0,3,0,2200
+346,"Business, administration and law",0,3.67,6,1,3910
+347,Education,0,2.53,3,0,550
+348,"Social sciences, journalism and information",0,3.56,6,0,2620
+349,"Engineering, manufacturing and construction",1,3.18,6,1,4430
+350,"Business, administration and law",0,3.55,6,1,2890
+351,Health and welfare,0,3.25,6,0,3160
+352,"Engineering, manufacturing and construction",1,3.93,3,0,2660
+353,"Business, administration and law",0,2.98,9,1,3930
+354,"Business, administration and law",0,3.22,6,0,1790
+355,"Natural sciences, mathematics and statistics",1,2.85,6,0,2870
+356,"Engineering, manufacturing and construction",1,3.12,6,1,2420
+357,"Engineering, manufacturing and construction",1,2.79,3,0,1160
+358,"Engineering, manufacturing and construction",1,3.03,9,1,8520
+359,Information and communication technologies,1,2.91,3,1,2300
+360,"Business, administration and law",0,3.52,9,0,2930
+361,"Business, administration and law",0,3.63,3,0,2240
+362,Services,0,2.95,9,0,1900
+363,Education,0,3.02,3,1,950
+364,"Business, administration and law",0,3.63,6,1,3910
+365,"Business, administration and law",0,3.77,3,0,4020
+366,"Business, administration and law",0,3.66,3,1,2520
+367,"Social sciences, journalism and information",0,3.28,3,0,2780
+368,Education,0,3.81,3,0,3420
+369,"Natural sciences, mathematics and statistics",1,3.22,6,0,1870
+370,"Agriculture, forestry, fisheries and veterinary",0,3.23,9,1,1790
+371,"Business, administration and law",0,3.06,3,0,3860
+372,Information and communication technologies,1,3.0,6,1,4420
+373,"Engineering, manufacturing and construction",1,3.9,9,1,4710
+374,Arts and humanities,0,3.48,9,0,8280
+375,"Business, administration and law",0,3.35,9,1,3250
+376,"Business, administration and law",0,3.34,3,0,1300
+377,"Social sciences, journalism and information",0,2.97,6,1,3240
+378,"Business, administration and law",0,3.62,3,0,2000
+379,"Business, administration and law",0,3.18,6,1,2560
+380,Arts and humanities,0,3.29,6,1,2120
+381,"Engineering, manufacturing and construction",1,3.44,6,0,2680
+382,"Engineering, manufacturing and construction",1,2.48,6,1,2170
+383,Arts and humanities,0,2.83,3,0,880
+384,Services,0,2.64,6,0,1160
+385,"Business, administration and law",0,2.97,6,1,10490
+386,"Business, administration and law",0,3.29,6,1,2480
+387,"Engineering, manufacturing and construction",1,3.58,6,1,3570
+388,"Natural sciences, mathematics and statistics",1,3.74,6,0,1710
+389,"Social sciences, journalism and information",0,2.66,6,0,630
+390,Information and communication technologies,1,3.33,3,0,2890
+391,"Natural sciences, mathematics and statistics",1,3.65,6,1,3040
+392,Education,0,3.07,9,0,2340
+393,"Social sciences, journalism and information",0,3.25,3,1,2580
+394,Health and welfare,0,3.28,9,1,7400
+395,"Business, administration and law",0,3.69,6,0,2930
+396,Services,0,3.74,9,0,1930
+397,"Engineering, manufacturing and construction",1,2.92,6,1,2340
+398,"Engineering, manufacturing and construction",1,2.67,3,0,1040
+399,"Social sciences, journalism and information",0,3.17,3,1,4230
+400,"Social sciences, journalism and information",0,3.26,3,1,3930
+401,"Business, administration and law",0,2.6,6,0,3300
+402,Arts and humanities,0,3.01,6,0,760
+403,Health and welfare,0,2.78,6,1,4150
+404,Information and communication technologies,1,3.22,3,0,3970
+405,"Agriculture, forestry, fisheries and veterinary",0,2.66,3,1,540
+406,"Business, administration and law",0,3.67,3,0,2760
+407,Arts and humanities,0,3.22,6,0,2540
+408,Education,0,2.79,6,1,2120
+409,Health and welfare,0,3.42,6,0,1300
+410,Education,0,3.17,6,0,1620
+411,"Social sciences, journalism and information",0,3.52,9,0,2320
+412,"Business, administration and law",0,3.45,3,0,2300
+413,"Social sciences, journalism and information",0,3.31,3,1,2520
+414,"Social sciences, journalism and information",0,3.15,6,0,3700
+415,"Natural sciences, mathematics and statistics",1,3.46,6,0,1240
+416,"Business, administration and law",0,3.11,6,1,2270
+417,"Engineering, manufacturing and construction",1,2.45,9,0,2330
+418,Health and welfare,0,2.99,6,0,2580
+419,Arts and humanities,0,3.4,9,0,1900
+420,"Engineering, manufacturing and construction",1,3.01,9,1,2970
+421,"Business, administration and law",0,3.26,3,0,1940
+422,Arts and humanities,0,3.1,3,1,2590
+423,"Business, administration and law",0,3.56,6,1,3510
+424,Arts and humanities,0,3.33,6,1,3720
+425,"Business, administration and law",0,3.02,3,0,1570
+426,"Business, administration and law",0,3.07,3,1,7050
+427,"Engineering, manufacturing and construction",1,3.48,3,0,2810
+428,Information and communication technologies,1,3.59,9,0,1820
+429,"Engineering, manufacturing and construction",1,3.73,9,1,5000
+430,"Social sciences, journalism and information",0,2.86,6,0,1810
+431,Arts and humanities,0,2.13,6,0,1010
+432,Health and welfare,0,3.11,6,1,4730
+433,"Social sciences, journalism and information",0,3.37,9,1,2840
+434,"Engineering, manufacturing and construction",1,3.56,6,0,9160
+435,"Engineering, manufacturing and construction",1,3.16,6,1,5210
+436,Information and communication technologies,1,3.22,3,0,4130
+437,"Business, administration and law",0,3.22,3,1,2130
+438,"Business, administration and law",0,3.24,9,0,3290
+439,"Business, administration and law",0,3.06,3,0,2080
+440,Information and communication technologies,1,3.35,6,1,3330
+441,"Natural sciences, mathematics and statistics",1,3.37,6,0,3520
+442,"Business, administration and law",0,3.79,9,0,2400
+443,"Business, administration and law",0,3.42,6,0,1970
+444,"Engineering, manufacturing and construction",1,2.78,6,0,3440
+445,"Engineering, manufacturing and construction",1,3.28,9,0,2690
+446,"Agriculture, forestry, fisheries and veterinary",0,3.38,9,1,2950
+447,"Engineering, manufacturing and construction",1,3.53,6,0,2750
+448,"Engineering, manufacturing and construction",1,2.97,6,1,2690
+449,"Business, administration and law",0,3.13,6,0,2100
+450,"Business, administration and law",0,3.31,3,1,3920
+451,"Business, administration and law",0,3.44,3,1,2420
+452,Education,0,2.42,6,0,1930
+453,"Business, administration and law",0,3.18,6,0,2770
+454,Information and communication technologies,1,3.65,6,0,3690
+455,"Business, administration and law",0,3.27,6,1,2750
+456,"Engineering, manufacturing and construction",1,3.32,3,1,2800
+457,Education,0,2.69,3,0,2100
+458,"Business, administration and law",0,3.47,6,1,10110
+459,"Business, administration and law",0,3.37,6,1,4140
+460,"Business, administration and law",0,2.98,3,0,2140
+461,Arts and humanities,0,2.65,6,0,2680
+462,"Engineering, manufacturing and construction",1,3.17,3,0,2030
+463,"Engineering, manufacturing and construction",1,3.3,3,0,1640
+464,Arts and humanities,0,2.94,6,0,1760
+465,Education,0,3.71,9,1,3080
+466,Information and communication technologies,1,2.68,3,1,3170
+467,"Business, administration and law",0,3.1,3,1,2470
+468,"Business, administration and law",0,2.7,6,1,2640
+469,Information and communication technologies,1,2.52,6,0,2750
+470,"Business, administration and law",0,3.81,6,1,8640
+471,Health and welfare,0,2.93,6,1,8880
+472,Health and welfare,0,3.33,3,0,3960
+473,Services,0,3.53,6,0,2390
+474,Health and welfare,0,3.23,6,1,4160
+475,"Business, administration and law",0,2.8,6,0,2050
+476,"Business, administration and law",0,3.28,3,1,2060
+477,Information and communication technologies,1,3.44,3,0,2920
+478,"Business, administration and law",0,3.04,3,0,680
+479,Information and communication technologies,1,2.77,6,0,2500
+480,"Engineering, manufacturing and construction",1,3.25,6,0,3830
+481,"Business, administration and law",0,3.62,6,0,4690
+482,"Engineering, manufacturing and construction",1,3.3,6,1,2760
+483,"Social sciences, journalism and information",0,2.51,3,1,3660
+484,Information and communication technologies,1,3.39,6,0,2070
+485,Arts and humanities,0,2.69,6,0,3920
+486,"Natural sciences, mathematics and statistics",1,2.94,3,0,3960
+487,"Business, administration and law",0,3.26,6,0,1570
+488,"Business, administration and law",0,3.37,6,0,1770
+489,"Business, administration and law",0,3.12,6,1,1860
+490,"Natural sciences, mathematics and statistics",1,3.75,6,1,2390
+491,Information and communication technologies,1,3.79,6,0,710
+492,"Natural sciences, mathematics and statistics",1,3.24,6,0,2940
+493,"Business, administration and law",0,3.81,6,1,2470
+494,Information and communication technologies,1,3.07,9,0,2930
+495,"Business, administration and law",0,3.06,9,0,3820
+496,"Business, administration and law",0,3.26,3,0,2130
+497,"Engineering, manufacturing and construction",1,2.9,6,1,3480
+498,"Business, administration and law",0,3.76,6,1,1960
+499,"Business, administration and law",0,3.2,3,0,2230
+500,"Engineering, manufacturing and construction",1,2.52,9,0,1360
+501,Arts and humanities,0,2.74,6,0,1900
+502,Education,0,3.09,3,0,1470
+503,Arts and humanities,0,3.17,6,0,760
+504,"Natural sciences, mathematics and statistics",1,3.68,6,0,2040
+505,"Engineering, manufacturing and construction",1,3.74,6,0,4770
+506,"Social sciences, journalism and information",0,2.74,3,1,2090
+507,Arts and humanities,0,3.62,6,1,1990
+508,"Business, administration and law",0,3.08,6,0,1930
+509,Arts and humanities,0,3.37,3,1,3520
+510,"Business, administration and law",0,2.58,6,0,910
+511,"Engineering, manufacturing and construction",1,2.94,6,0,1830
+512,"Business, administration and law",0,3.6,6,1,3500
+513,Health and welfare,0,3.41,9,0,1510
+514,"Engineering, manufacturing and construction",1,3.32,9,0,3590
+515,"Engineering, manufacturing and construction",1,2.96,3,0,1100
+516,Arts and humanities,0,2.91,9,0,960
+517,Information and communication technologies,1,3.24,3,0,2050
+518,"Engineering, manufacturing and construction",1,3.12,3,0,750
+519,"Business, administration and law",0,3.33,6,0,4280
+520,"Engineering, manufacturing and construction",1,3.0,3,1,2390
+521,"Business, administration and law",0,3.22,6,0,3660
+522,"Business, administration and law",0,2.77,6,0,4700
+523,"Business, administration and law",0,3.35,6,1,3870
+524,"Business, administration and law",0,3.14,6,1,1890
+525,"Business, administration and law",0,3.78,6,1,3850
+526,Health and welfare,0,3.11,6,0,4230
+527,"Natural sciences, mathematics and statistics",1,3.63,3,0,1970
+528,"Engineering, manufacturing and construction",1,3.48,9,0,3300
+529,Services,0,3.14,6,0,3090
+530,"Engineering, manufacturing and construction",1,2.46,6,0,2230
+531,"Business, administration and law",0,3.09,3,0,3620
+532,Information and communication technologies,1,3.12,9,0,4430
+533,Services,0,3.06,6,1,3810
+534,Information and communication technologies,1,2.94,6,0,3310
+535,"Agriculture, forestry, fisheries and veterinary",0,3.49,6,0,1150
+536,"Business, administration and law",0,3.4,3,1,2420
+537,Information and communication technologies,1,3.57,6,0,2820
+538,"Engineering, manufacturing and construction",1,2.91,6,0,620
+539,"Business, administration and law",0,2.25,6,0,1670
+540,Education,0,2.51,3,1,1560
+541,"Business, administration and law",0,3.19,6,1,4590
+542,"Business, administration and law",0,3.49,6,1,1850
+543,Arts and humanities,0,3.08,6,1,1820
+544,Information and communication technologies,1,2.74,3,1,1540
+545,Health and welfare,0,2.84,6,0,1100
+546,Arts and humanities,0,2.68,9,1,2640
+547,Information and communication technologies,1,3.63,6,0,1740
+548,"Business, administration and law",0,3.19,6,1,4470
+549,"Engineering, manufacturing and construction",1,3.74,9,0,2300
+550,"Engineering, manufacturing and construction",1,2.83,9,0,3060
+551,"Business, administration and law",0,3.29,6,0,4240
+552,"Business, administration and law",0,3.29,9,0,1530
+553,Arts and humanities,0,3.23,9,1,3890
+554,Arts and humanities,0,2.94,3,1,1020
+555,Education,0,3.5,6,1,2360
+556,"Business, administration and law",0,2.65,6,1,2590
+557,Information and communication technologies,1,3.23,6,1,1750
+558,"Business, administration and law",0,3.45,6,1,3680
+559,Arts and humanities,0,3.44,3,1,1830
+560,"Engineering, manufacturing and construction",1,3.25,6,0,2250
+561,"Social sciences, journalism and information",0,3.22,3,1,2110
+562,"Social sciences, journalism and information",0,3.77,3,1,1600
+563,Education,0,3.28,6,0,1910
+564,Services,0,2.99,3,0,1390
+565,"Engineering, manufacturing and construction",1,3.29,6,0,2950
+566,"Business, administration and law",0,3.1,6,1,3890
+567,"Business, administration and law",0,3.62,6,0,1890
+568,"Engineering, manufacturing and construction",1,3.1,3,0,2480
+569,"Engineering, manufacturing and construction",1,3.03,3,0,1000
+570,Health and welfare,0,2.82,3,1,3850
+571,"Engineering, manufacturing and construction",1,2.81,6,1,3620
+572,Information and communication technologies,1,2.6,6,1,3400
+573,Arts and humanities,0,3.24,3,1,1420
+574,"Business, administration and law",0,3.43,6,1,2540
+575,Health and welfare,0,3.78,6,1,2050
+576,"Business, administration and law",0,3.26,9,0,1750
+577,"Natural sciences, mathematics and statistics",1,2.9,6,0,750
+578,"Business, administration and law",0,2.95,6,1,2020
+579,"Natural sciences, mathematics and statistics",1,3.31,6,1,2120
+580,"Engineering, manufacturing and construction",1,3.07,9,0,3340
+581,"Engineering, manufacturing and construction",1,3.12,6,1,2130
+582,"Social sciences, journalism and information",0,3.41,6,1,1890
+583,Arts and humanities,0,3.74,9,0,2080
+584,"Business, administration and law",0,2.45,3,1,1990
+585,Arts and humanities,0,3.32,6,1,1520
+586,Education,0,2.82,6,1,2950
+587,"Social sciences, journalism and information",0,3.02,9,0,2980
+588,"Business, administration and law",0,2.79,6,1,2060
+589,Services,0,3.41,6,0,1540
+590,Arts and humanities,0,3.53,6,1,1950
+591,Arts and humanities,0,3.21,3,0,1740
+592,"Social sciences, journalism and information",0,2.63,9,1,1960
+593,"Engineering, manufacturing and construction",1,2.99,6,0,2950
+594,"Engineering, manufacturing and construction",1,3.41,3,0,2520
+595,Information and communication technologies,1,3.45,6,0,3720
+596,"Social sciences, journalism and information",0,2.85,9,0,2240
+597,"Business, administration and law",0,3.25,3,1,3910
+598,"Engineering, manufacturing and construction",1,2.98,6,0,570
+599,Health and welfare,0,3.11,6,0,3730
+600,"Engineering, manufacturing and construction",1,3.87,3,0,4880
+601,"Business, administration and law",0,3.72,6,0,8500
+602,Information and communication technologies,1,3.57,3,1,4000
+603,"Engineering, manufacturing and construction",1,2.91,3,1,3630
+604,"Business, administration and law",0,2.92,6,1,3770
+605,"Business, administration and law",0,2.43,6,1,3380
+606,"Business, administration and law",0,2.94,3,1,1740
+607,"Business, administration and law",0,2.85,9,0,2010
+608,Arts and humanities,0,3.64,3,0,600
+609,"Business, administration and law",0,3.18,3,1,1790
+610,Information and communication technologies,1,3.07,9,1,1790
+611,"Natural sciences, mathematics and statistics",1,3.28,3,0,2160
+612,"Business, administration and law",0,3.38,3,1,3330
+613,"Business, administration and law",0,3.48,3,0,2650
+614,Information and communication technologies,1,3.37,6,0,2270
+615,"Social sciences, journalism and information",0,3.11,3,0,1760
+616,"Engineering, manufacturing and construction",1,3.23,3,0,3430
+617,"Natural sciences, mathematics and statistics",1,3.16,3,0,1530
+618,"Business, administration and law",0,3.6,9,0,2650
+619,"Business, administration and law",0,2.41,9,0,1600
+620,"Engineering, manufacturing and construction",1,3.45,3,1,3020
+621,"Engineering, manufacturing and construction",1,3.12,6,0,3590
+622,"Business, administration and law",0,3.4,6,0,1740
+623,"Business, administration and law",0,3.36,9,0,3320
+624,"Engineering, manufacturing and construction",1,3.1,3,0,2150
+625,Health and welfare,0,3.67,9,1,8990
+626,"Engineering, manufacturing and construction",1,2.83,3,0,2760
+627,"Business, administration and law",0,3.53,6,0,1440
+628,"Engineering, manufacturing and construction",1,3.3,6,0,3000
+629,Health and welfare,0,2.72,6,0,2920
+630,Information and communication technologies,1,3.08,3,1,3600
+631,"Engineering, manufacturing and construction",1,3.13,6,0,3330
+632,"Business, administration and law",0,3.0,6,1,2100
+633,"Business, administration and law",0,2.44,6,0,520
+634,Health and welfare,0,3.56,6,1,2500
+635,"Social sciences, journalism and information",0,3.45,6,1,1850
+636,"Business, administration and law",0,3.37,3,0,2260
+637,Information and communication technologies,1,3.34,9,1,3150
+638,"Natural sciences, mathematics and statistics",1,3.45,9,0,2560
+639,"Engineering, manufacturing and construction",1,3.72,3,1,1890
+640,"Engineering, manufacturing and construction",1,2.54,6,0,3190
+641,"Business, administration and law",0,2.51,6,0,2240
+642,"Business, administration and law",0,2.59,6,1,2700
+643,"Engineering, manufacturing and construction",1,3.48,3,0,2340
+644,"Agriculture, forestry, fisheries and veterinary",0,2.48,6,1,1700
+645,"Business, administration and law",0,3.35,6,0,4000
+646,"Business, administration and law",0,3.77,6,0,2980
+647,Education,0,3.19,6,0,2010
+648,Arts and humanities,0,3.07,6,1,2360
+649,"Business, administration and law",0,3.49,6,1,4480
+650,"Engineering, manufacturing and construction",1,3.71,6,1,3240
+651,"Business, administration and law",0,3.0,3,1,1870
+652,"Natural sciences, mathematics and statistics",1,3.85,3,0,2890
+653,Arts and humanities,0,3.68,3,0,590
+654,"Engineering, manufacturing and construction",1,2.37,6,0,1800
+655,Education,0,2.63,6,0,1930
+656,Services,0,3.15,3,1,10000
+657,"Engineering, manufacturing and construction",1,3.15,9,1,2510
+658,Education,0,3.05,6,1,780
+659,Arts and humanities,0,3.17,6,0,2020
+660,"Natural sciences, mathematics and statistics",1,3.18,9,0,2150
+661,"Social sciences, journalism and information",0,2.35,6,0,1680
+662,"Business, administration and law",0,3.43,6,0,9500
+663,Health and welfare,0,3.66,9,1,2890
+664,"Natural sciences, mathematics and statistics",1,3.34,3,0,1730
+665,Education,0,3.11,6,0,740
+666,"Business, administration and law",0,3.75,6,0,3620
+667,Services,0,3.2,6,1,2410
+668,"Social sciences, journalism and information",0,3.23,9,0,3080
+669,"Natural sciences, mathematics and statistics",1,3.14,3,1,3960
+670,"Business, administration and law",0,2.65,9,0,2250
+671,Information and communication technologies,1,2.84,6,1,3420
+672,"Engineering, manufacturing and construction",1,3.18,9,0,3990
+673,"Business, administration and law",0,2.85,6,1,2880
+674,"Engineering, manufacturing and construction",1,3.59,6,0,3290
+675,"Business, administration and law",0,3.37,6,0,1560
+676,"Natural sciences, mathematics and statistics",1,2.59,6,0,1700
+677,Arts and humanities,0,3.96,3,0,1830
+678,Health and welfare,0,2.44,6,0,2250
+679,"Business, administration and law",0,3.43,3,1,3470
+680,"Natural sciences, mathematics and statistics",1,3.5,3,0,2390
+681,"Social sciences, journalism and information",0,3.27,6,0,9680
+682,"Business, administration and law",0,3.55,9,0,2380
+683,"Social sciences, journalism and information",0,2.98,6,0,2010
+684,"Engineering, manufacturing and construction",1,3.44,6,0,3210
+685,"Business, administration and law",0,3.73,3,0,1080
+686,"Business, administration and law",0,2.97,6,0,1990
+687,"Business, administration and law",0,2.62,3,0,690
+688,"Business, administration and law",0,2.84,6,1,2510
+689,"Engineering, manufacturing and construction",1,3.36,6,0,2930
+690,Information and communication technologies,1,2.78,6,0,1960
+691,"Business, administration and law",0,2.23,6,1,2340
+692,Education,0,2.31,6,0,570
+693,Information and communication technologies,1,3.06,9,0,4080
+694,"Natural sciences, mathematics and statistics",1,2.72,6,1,1070
+695,"Engineering, manufacturing and construction",1,3.12,6,0,1320
+696,"Business, administration and law",0,3.2,9,1,4920
+697,Health and welfare,0,3.03,3,1,4110
+698,Education,0,3.49,3,1,1380
+699,"Engineering, manufacturing and construction",1,3.29,6,1,2880
+700,Arts and humanities,0,3.83,6,1,3480
+701,Health and welfare,0,3.63,3,0,9090
+702,Education,0,2.72,6,1,3470
+703,"Engineering, manufacturing and construction",1,3.13,6,0,2140
+704,Information and communication technologies,1,2.77,3,0,630
+705,"Business, administration and law",0,3.4,6,1,3420
+706,"Engineering, manufacturing and construction",1,2.17,6,0,570
+707,"Natural sciences, mathematics and statistics",1,2.47,3,1,1210
+708,Education,0,3.12,6,1,2600
+709,"Social sciences, journalism and information",0,2.98,6,1,3340
+710,"Engineering, manufacturing and construction",1,3.21,6,0,4340
+711,"Engineering, manufacturing and construction",1,2.83,3,0,1700
+712,Information and communication technologies,1,3.05,6,0,1770
+713,"Business, administration and law",0,2.75,3,0,2360
+714,Information and communication technologies,1,2.91,9,0,2540
+715,"Engineering, manufacturing and construction",1,3.25,6,0,2100
+716,"Business, administration and law",0,2.84,6,1,4700
+717,"Business, administration and law",0,3.29,6,1,3020
+718,"Natural sciences, mathematics and statistics",1,3.16,6,1,2140
+719,"Business, administration and law",0,2.62,6,0,2800
+720,"Business, administration and law",0,3.91,6,1,4490
+721,Services,0,3.96,3,0,1780
+722,Education,0,3.4,3,0,1580
+723,Information and communication technologies,1,3.82,3,1,3620
+724,Arts and humanities,0,3.32,3,0,2510
+725,Education,0,2.34,6,0,590
+726,"Business, administration and law",0,2.96,9,0,3500
+727,"Business, administration and law",0,3.05,6,1,2430
+728,"Business, administration and law",0,3.36,3,0,3400
+729,Information and communication technologies,1,3.26,6,0,3250
+730,"Engineering, manufacturing and construction",1,2.93,9,1,3590
+731,"Social sciences, journalism and information",0,3.2,9,0,1800
+732,"Business, administration and law",0,2.35,9,0,4950
+733,Information and communication technologies,1,3.11,3,1,9380
+734,"Business, administration and law",0,3.14,9,1,3250
+735,"Engineering, manufacturing and construction",1,3.77,6,0,4730
+736,"Business, administration and law",0,3.31,6,1,3830
+737,"Business, administration and law",0,3.14,6,0,3640
+738,Information and communication technologies,1,2.92,6,0,2590
+739,"Agriculture, forestry, fisheries and veterinary",0,3.29,6,0,3350
+740,"Engineering, manufacturing and construction",1,2.77,6,0,2850
+741,Services,0,3.17,3,0,1920
+742,"Engineering, manufacturing and construction",1,3.39,6,0,1670
+743,"Engineering, manufacturing and construction",1,3.48,6,0,2410
+744,"Engineering, manufacturing and construction",1,3.38,9,0,3870
+745,"Business, administration and law",0,3.51,3,1,2960
+746,Health and welfare,0,3.4,9,1,2950
+747,"Business, administration and law",0,2.7,6,0,2580
+748,"Business, administration and law",0,3.42,6,0,2100
+749,Education,0,3.45,6,0,9360
+750,"Engineering, manufacturing and construction",1,3.28,6,1,2210
+751,"Business, administration and law",0,2.66,3,1,2220
+752,"Social sciences, journalism and information",0,3.39,3,1,1470
+753,"Business, administration and law",0,3.55,3,1,3090
+754,Health and welfare,0,3.1,6,0,3160
+755,"Natural sciences, mathematics and statistics",1,3.27,6,1,3560
+756,"Business, administration and law",0,2.95,6,0,1140
+757,"Social sciences, journalism and information",0,2.82,6,1,3130
+758,"Engineering, manufacturing and construction",1,2.91,6,1,2750
+759,"Business, administration and law",0,2.68,9,0,2530
+760,Education,0,3.2,6,1,1160
+761,"Engineering, manufacturing and construction",1,3.22,3,0,1920
+762,"Business, administration and law",0,2.9,3,0,1640
+763,Education,0,2.65,6,1,1870
+764,"Business, administration and law",0,3.71,3,0,2410
+765,"Engineering, manufacturing and construction",1,2.79,9,0,2540
+766,Health and welfare,0,3.27,3,0,2000
+767,"Engineering, manufacturing and construction",1,3.41,6,1,3130
+768,"Engineering, manufacturing and construction",1,3.34,3,1,3320
+769,Information and communication technologies,1,3.03,3,1,3780
+770,"Business, administration and law",0,2.85,6,0,2080
+771,Education,0,3.53,3,0,1670
+772,Services,0,3.53,6,0,2430
+773,Health and welfare,0,3.5,3,0,4300
+774,"Engineering, manufacturing and construction",1,3.11,3,1,2670
+775,"Social sciences, journalism and information",0,2.94,6,1,4670
+776,"Engineering, manufacturing and construction",1,3.1,6,0,2030
+777,"Business, administration and law",0,3.28,6,1,2080
+778,"Engineering, manufacturing and construction",1,3.39,3,1,3190
+779,Information and communication technologies,1,3.44,6,0,3390
+780,Services,0,3.34,9,0,2130
+781,Education,0,2.92,6,0,1200
+782,"Business, administration and law",0,3.18,3,1,2120
+783,Education,0,3.02,6,0,1850
+784,"Engineering, manufacturing and construction",1,2.5,6,0,2380
+785,"Business, administration and law",0,3.14,6,0,3580
+786,"Engineering, manufacturing and construction",1,3.51,9,0,1590
+787,"Business, administration and law",0,3.41,6,0,2050
+788,"Engineering, manufacturing and construction",1,3.78,9,0,4270
+789,"Business, administration and law",0,3.46,6,0,2630
+790,"Engineering, manufacturing and construction",1,2.94,3,0,1760
+791,Arts and humanities,0,3.1,6,1,1130
+792,"Engineering, manufacturing and construction",1,3.09,6,0,3900
+793,"Business, administration and law",0,3.19,6,0,2190
+794,"Business, administration and law",0,3.56,9,0,2250
+795,Arts and humanities,0,3.76,9,0,1170
+796,Education,0,3.31,6,0,1810
+797,"Business, administration and law",0,2.93,9,0,3610
+798,"Business, administration and law",0,2.53,6,0,1970
+799,Information and communication technologies,1,3.53,6,0,2640
+800,"Natural sciences, mathematics and statistics",1,3.38,9,0,3330
+801,"Engineering, manufacturing and construction",1,3.28,3,0,2700
+802,"Engineering, manufacturing and construction",1,3.98,6,0,2330
+803,Services,0,3.46,6,0,2350
+804,"Engineering, manufacturing and construction",1,3.77,6,1,2280
+805,"Natural sciences, mathematics and statistics",1,3.64,3,0,2160
+806,"Natural sciences, mathematics and statistics",1,3.7,6,0,2890
+807,Information and communication technologies,1,3.56,6,1,8160
+808,"Engineering, manufacturing and construction",1,3.64,9,1,2880
+809,Arts and humanities,0,3.0,9,0,1910
+810,Services,0,3.21,9,1,2490
+811,"Business, administration and law",0,3.12,3,0,3130
+812,"Social sciences, journalism and information",0,3.12,6,1,1160
+813,"Business, administration and law",0,3.33,3,0,3470
+814,"Engineering, manufacturing and construction",1,3.82,3,0,3050
+815,Information and communication technologies,1,3.5,6,0,3450
+816,"Business, administration and law",0,2.92,6,0,8490
+817,"Engineering, manufacturing and construction",1,3.11,6,0,3730
+818,"Engineering, manufacturing and construction",1,3.11,6,1,3040
+819,Education,0,3.16,6,0,1300
+820,Arts and humanities,0,2.43,9,1,2220
+821,Health and welfare,0,2.98,3,1,960
+822,"Business, administration and law",0,3.15,3,0,2390
+823,"Natural sciences, mathematics and statistics",1,3.28,6,0,1930
+824,Education,0,2.87,6,0,1010
+825,"Engineering, manufacturing and construction",1,3.51,6,1,3300
+826,Health and welfare,0,3.25,3,1,1830
+827,"Business, administration and law",0,3.06,3,1,1760
+828,"Engineering, manufacturing and construction",1,3.61,6,0,3170
+829,"Business, administration and law",0,2.93,6,1,2280
+830,Arts and humanities,0,3.62,6,0,2000
+831,"Business, administration and law",0,3.12,3,1,3660
+832,"Engineering, manufacturing and construction",1,3.28,6,1,7080
+833,"Natural sciences, mathematics and statistics",1,3.06,6,0,1720
+834,"Engineering, manufacturing and construction",1,3.45,3,0,2690
+835,"Engineering, manufacturing and construction",1,3.83,6,1,3200
+836,"Business, administration and law",0,3.81,6,0,2290
+837,"Social sciences, journalism and information",0,3.06,6,0,1220
+838,"Business, administration and law",0,3.67,3,0,3750
+839,"Natural sciences, mathematics and statistics",1,3.39,3,1,2370
+840,"Engineering, manufacturing and construction",1,3.7,6,0,3090
+841,Health and welfare,0,3.19,6,1,2110
+842,Information and communication technologies,1,3.51,6,0,2030
+843,Information and communication technologies,1,3.65,6,0,3710
+844,Arts and humanities,0,2.71,3,0,890
+845,"Social sciences, journalism and information",0,3.18,6,0,730
+846,"Business, administration and law",0,3.34,6,0,3840
+847,"Engineering, manufacturing and construction",1,3.17,6,0,2760
+848,Information and communication technologies,1,2.76,6,1,2640
+849,"Business, administration and law",0,2.64,3,0,2630
+850,Education,0,2.9,3,0,1820
+851,Services,0,3.21,6,0,1640
+852,Information and communication technologies,1,2.66,6,0,2390
+853,"Natural sciences, mathematics and statistics",1,3.26,9,0,2060
+854,Arts and humanities,0,3.26,6,0,1950
+855,Information and communication technologies,1,3.98,6,0,4970
+856,"Engineering, manufacturing and construction",1,3.3,6,0,2510
+857,"Business, administration and law",0,2.89,3,0,1790
+858,Health and welfare,0,2.72,6,1,1630
+859,Arts and humanities,0,3.64,6,1,1570
+860,"Business, administration and law",0,3.41,6,0,1830
+861,"Engineering, manufacturing and construction",1,3.63,6,1,3980
+862,"Natural sciences, mathematics and statistics",1,2.8,9,0,1700
+863,"Business, administration and law",0,3.14,3,0,1980
+864,"Natural sciences, mathematics and statistics",1,3.48,3,0,2980
+865,"Business, administration and law",0,2.79,3,0,1300
+866,Arts and humanities,0,2.91,6,1,3970
+867,Information and communication technologies,1,2.91,6,0,1010
+868,"Business, administration and law",0,3.26,6,1,3960
+869,"Natural sciences, mathematics and statistics",1,2.94,6,0,1580
+870,"Business, administration and law",0,3.63,6,0,1950
+871,"Natural sciences, mathematics and statistics",1,3.28,6,1,3340
+872,"Social sciences, journalism and information",0,2.97,3,0,2570
+873,"Business, administration and law",0,3.49,6,1,2350
+874,"Engineering, manufacturing and construction",1,3.49,6,1,3840
+875,"Engineering, manufacturing and construction",1,2.77,6,1,2320
+876,"Business, administration and law",0,2.76,3,0,1440
+877,"Business, administration and law",0,3.49,9,0,3450
+878,"Social sciences, journalism and information",0,3.13,6,0,2490
+879,"Business, administration and law",0,3.2,9,1,9980
+880,"Social sciences, journalism and information",0,3.15,9,1,2270
+881,Information and communication technologies,1,3.22,9,0,3880
+882,"Business, administration and law",0,2.89,3,0,1670
+883,"Business, administration and law",0,3.34,6,0,1880
+884,Information and communication technologies,1,3.06,6,1,4650
+885,Arts and humanities,0,3.5,6,0,2840
+886,"Business, administration and law",0,3.58,3,1,4290
+887,Arts and humanities,0,3.6,6,0,1310
+888,"Business, administration and law",0,3.12,6,0,1540
+889,"Business, administration and law",0,3.27,6,1,2980
+890,"Engineering, manufacturing and construction",1,3.15,6,0,3300
+891,"Social sciences, journalism and information",0,3.32,6,0,2250
+892,"Business, administration and law",0,3.36,9,1,1650
+893,"Business, administration and law",0,2.54,6,0,1660
+894,"Business, administration and law",0,3.74,3,1,3230
+895,Arts and humanities,0,3.23,9,0,1830
+896,Health and welfare,0,2.8,3,1,2530
+897,"Business, administration and law",0,2.96,6,0,3720
+898,"Natural sciences, mathematics and statistics",1,3.34,6,1,1750
+899,"Business, administration and law",0,3.19,6,0,3430
+900,Arts and humanities,0,3.17,6,1,2000
+901,Information and communication technologies,1,3.54,6,0,8280
+902,"Natural sciences, mathematics and statistics",1,3.87,9,1,4550
+903,"Business, administration and law",0,3.56,6,1,3560
+904,"Business, administration and law",0,3.61,9,0,1920
+905,"Business, administration and law",0,3.06,6,1,2350
+906,"Natural sciences, mathematics and statistics",1,3.97,6,0,2440
+907,"Engineering, manufacturing and construction",1,3.92,6,1,2970
+908,"Business, administration and law",0,3.01,3,0,4460
+909,"Social sciences, journalism and information",0,2.96,3,1,900
+910,Information and communication technologies,1,3.37,6,1,4380
+911,Services,0,3.83,6,0,7990
+912,"Engineering, manufacturing and construction",1,3.98,6,1,3670
+913,"Business, administration and law",0,3.55,9,0,2740
+914,Information and communication technologies,1,2.82,6,0,700
+915,Health and welfare,0,3.25,3,0,2330
+916,"Social sciences, journalism and information",0,3.07,6,0,3280
+917,Health and welfare,0,3.85,6,0,3120
+918,"Engineering, manufacturing and construction",1,3.12,3,1,2030
+919,Information and communication technologies,1,2.77,6,1,3240
+920,"Natural sciences, mathematics and statistics",1,2.69,9,1,3610
+921,Information and communication technologies,1,3.16,6,1,3560
+922,"Business, administration and law",0,3.12,9,0,5320
+923,Arts and humanities,0,3.11,3,1,2020
+924,"Social sciences, journalism and information",0,3.35,6,1,2790
+925,"Social sciences, journalism and information",0,2.97,6,0,1060
+926,"Natural sciences, mathematics and statistics",1,2.95,6,0,2460
+927,Services,0,2.97,6,0,2280
+928,Health and welfare,0,3.13,3,0,850
+929,"Social sciences, journalism and information",0,3.2,9,0,2710
+930,"Business, administration and law",0,3.43,6,1,1670
+931,"Engineering, manufacturing and construction",1,3.07,9,0,3970
+932,"Business, administration and law",0,3.09,6,1,1890
+933,"Business, administration and law",0,2.56,6,0,2670
+934,Education,0,3.27,3,0,1780
+935,"Natural sciences, mathematics and statistics",1,3.51,3,1,2940
+936,"Business, administration and law",0,2.92,6,0,1070
+937,"Engineering, manufacturing and construction",1,3.46,9,0,2090
+938,Information and communication technologies,1,3.39,6,1,3800
+939,"Business, administration and law",0,2.84,3,1,2020
+940,"Business, administration and law",0,3.32,6,0,3880
+941,"Social sciences, journalism and information",0,3.31,6,0,3330
+942,Information and communication technologies,1,3.43,6,1,3670
+943,"Engineering, manufacturing and construction",1,3.5,6,0,3270
+944,"Business, administration and law",0,3.01,3,0,2580
+945,"Business, administration and law",0,3.61,3,1,7500
+946,Education,0,3.57,3,0,4840
+947,"Engineering, manufacturing and construction",1,3.35,6,0,2470
+948,Health and welfare,0,3.01,3,0,1740
+949,"Business, administration and law",0,3.29,9,0,3130
+950,"Business, administration and law",0,3.48,3,1,2870
+951,"Engineering, manufacturing and construction",1,3.18,6,0,2000
+952,"Business, administration and law",0,3.14,9,1,3840
+953,"Business, administration and law",0,3.31,9,0,3040
+954,"Engineering, manufacturing and construction",1,3.37,3,1,2770
+955,"Natural sciences, mathematics and statistics",1,3.38,6,0,3870
+956,Health and welfare,0,2.78,3,0,1950
+957,Arts and humanities,0,3.84,6,0,1910
+958,"Social sciences, journalism and information",0,3.37,3,0,3740
+959,"Business, administration and law",0,3.2,6,0,3280
+960,"Business, administration and law",0,2.91,6,0,2290
+961,Arts and humanities,0,2.62,6,1,2450
+962,Arts and humanities,0,2.66,3,1,3190
+963,Information and communication technologies,1,2.88,6,0,2450
+964,Services,0,3.24,3,0,2700
+965,Arts and humanities,0,3.07,6,1,1610
+966,Education,0,3.27,3,1,1710
+967,"Business, administration and law",0,3.39,6,0,1970
+968,"Natural sciences, mathematics and statistics",1,3.06,9,0,2720
+969,"Business, administration and law",0,3.53,3,1,6430
+970,Information and communication technologies,1,3.31,9,0,2570
+971,"Engineering, manufacturing and construction",1,3.67,3,1,5520
+972,Health and welfare,0,3.54,6,0,1880
+973,Education,0,3.27,6,0,830
+974,Information and communication technologies,1,3.11,3,0,2460
+975,"Business, administration and law",0,2.9,3,0,1880
+976,Arts and humanities,0,3.71,6,0,2060
+977,"Agriculture, forestry, fisheries and veterinary",0,3.11,6,1,2360
+978,"Engineering, manufacturing and construction",1,2.48,9,0,2080
+979,Arts and humanities,0,3.49,6,0,2010
+980,"Natural sciences, mathematics and statistics",1,3.31,9,0,3800
+981,Information and communication technologies,1,2.63,6,0,1310
+982,"Business, administration and law",0,3.71,6,0,4540
+983,"Engineering, manufacturing and construction",1,2.87,9,1,3320
+984,Information and communication technologies,1,3.3,6,1,3250
+985,Services,0,3.08,6,1,2520
+986,"Natural sciences, mathematics and statistics",1,2.95,3,0,520
+987,Health and welfare,0,3.21,9,0,3470
+988,"Engineering, manufacturing and construction",1,3.14,6,1,4690
+989,"Social sciences, journalism and information",0,2.76,6,1,1610
+990,"Business, administration and law",0,3.32,3,0,1600
+991,"Social sciences, journalism and information",0,2.95,6,0,770
+992,"Business, administration and law",0,3.08,6,1,1350
+993,Health and welfare,0,3.25,6,0,740
+994,"Social sciences, journalism and information",0,3.61,3,1,1990
+995,Services,0,2.89,6,1,1540
+996,"Engineering, manufacturing and construction",1,2.17,3,0,1820
+997,Health and welfare,0,3.32,9,0,7800
+998,"Social sciences, journalism and information",0,3.19,6,1,1560
+999,"Natural sciences, mathematics and statistics",1,3.69,3,0,2080
+1000,"Business, administration and law",0,3.45,3,0,3470

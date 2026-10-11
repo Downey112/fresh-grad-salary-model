@@ -1,0 +1,6 @@
+test,checks,statistic,p_value,small_p_means,rejected_at_5pct
+Breusch-Pagan,Heteroscedasticity,11.028354066615286,0.05082069505062255,error variance changes with the regressors,False
+White,Heteroscedasticity,21.312740899853686,0.12713121138219138,"error variance changes with the regressors, their squares or products",False
+Jarque-Bera,Residual normality,45.65939350803633,1.2167144789512357e-10,residuals are skewed or heavy-tailed,True
+Shapiro-Wilk,Residual normality,0.9804205220319244,2.414278041907719e-10,residuals are not normal (very sensitive at this sample size),True
+"Ramsey RESET (powers 2, 3)",Functional form,2.0731183927643215,0.1263375548313479,"powers of the fitted values add explanatory power, so the form is misspecified",False

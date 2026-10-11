@@ -1,0 +1,41 @@
+{
+  "seed": 20261011,
+  "sample_size": 1000,
+  "policy": {
+    "graduate_floor": 2500,
+    "new_minimum_wage": 2000,
+    "current_minimum_wage": 1700,
+    "compression_ceiling": 3200,
+    "compression_alpha": 0.25,
+    "sme_coverage_rate": 0.6,
+    "annual_wage_growth": 0.03,
+    "years_to_policy": 3,
+    "likely_part_time_at_or_below": 1500,
+    "mid_tier_low": 2500,
+    "mid_tier_high": 3100
+  },
+  "statutory": {
+    "epf_employer": 0.13,
+    "epf_employee": 0.11,
+    "socso_employer": 0.0175,
+    "socso_employee": 0.005,
+    "eis_employer": 0.002,
+    "eis_employee": 0.002,
+    "hrd_levy": 0.01
+  },
+  "simulation": {
+    "bottom_band_floor": 500,
+    "top_band_cap": 15000,
+    "salary_rounding": 10,
+    "cgpa_mean": 3.2,
+    "cgpa_sd": 0.38,
+    "cgpa_min": 2.0,
+    "cgpa_max": 4.0,
+    "intern_months_probabilities": {"3": 0.3, "6": 0.55, "9": 0.15},
+    "klang_valley_share": 0.4,
+    "weight_cgpa": 0.22,
+    "weight_intern": 0.12,
+    "weight_klang_valley": 0.28,
+    "stem_cgpa_multiplier": 1.4
+  }
+}
