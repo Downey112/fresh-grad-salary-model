@@ -17,6 +17,12 @@ without pay are excluded.
 The report's overall first-degree row (n = 109,414) is: 6.9, 6.2, 17.5, 19.1, 16.6, 22.7,
 6.6, 3.8, 0.6 per cent. The field rows sum to that total, which `tests/` checks.
 
+The published percentages are rounded to one decimal, so a field's nine bands sum to
+between 99.8 and 100.1 rather than exactly 100. This project rescales each field's bands
+to sum to 100 before using them. That is why the share at or below RM2,500 is reported as
+77.2% for education and 75.0% for arts and humanities, where adding the four published
+percentages by hand gives 77.1% and 75.1%. The difference is within the source's rounding.
+
 The `stem` column is **not** from the report. It is this project's classification:
 engineering, ICT, and natural sciences/mathematics/statistics are coded 1 (ISCED-F broad
 fields 05, 06 and 07). Health and agriculture are coded 0. Other definitions of STEM
